@@ -1,6 +1,6 @@
 👋 Hi there! I'm Ashmita, a CS student in my third year at the University of Waterloo. 💻
 
-👩‍💻 I’m proficient in a wide range of programming languages including Java, C++, C, Python, HTML/CSS, Racket, and JavaScript
+👩‍💻 I’m proficient in a wide range of programming languages including Java, C++, C, Python, HTML/CSS, and JavaScript
 
 💻 I'm familiar with frameworks like React, Flask, Django, MERN, and Bootstrap
 
