@@ -10,8 +10,6 @@
 
 💭 I'm also obsessed with psychology and unraveling the mysteries of human behavior, delving into the realms of personality, body language, and cognition
 
-🌍 Proficient in English and Hindi, embarking on a journey to learn Spanish, with a touch of Sanskrit along the way
-
 🌟 Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😊
 
 🌐 My personal website [**ashmitamittal.com**](http://ashmitamittal.com/)
