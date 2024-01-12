@@ -1,4 +1,4 @@
-👋 Hi there! I'm Ashmita, a CS student in my third year at the University of Waterloo. 💻
+👋 Hi there! I'm Ashmita, a CS student in my forth year at the University of Waterloo. 💻
 
 👩‍💻 I’m proficient in a wide range of programming languages, including Java, C++, C, Python, HTML/CSS, and JavaScript
 
