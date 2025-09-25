@@ -12,4 +12,4 @@
 
 🌟 Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😊
 
-🌐 My personal website [**ashmitamittal.com**](http://ashmitamittal.com/)
+🌐 My personal website [**here**](http://ashmitamittal.netlify.app/)
